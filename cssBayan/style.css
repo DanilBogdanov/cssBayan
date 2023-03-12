@@ -57,9 +57,8 @@ hr {
 
 /*MEME CONTENT*/
 .meme__content {
-    height: 0;
-    opacity: 0;    
-
+    height: calc(8vw + 9rem);
+    
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;    
@@ -70,4 +69,8 @@ hr {
 /*IMAGES*/
 .bg_1 {
     background-image: url(./img/code.png);
+}
+
+.bg_2 {
+    background-image: url(./img/debug.gif);
 }
