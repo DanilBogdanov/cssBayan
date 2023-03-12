@@ -74,3 +74,7 @@ hr {
 .bg_2 {
     background-image: url(./img/debug.gif);
 }
+
+.bg_3 {
+    background-image: url(./img/json_for_dev.png);
+}
